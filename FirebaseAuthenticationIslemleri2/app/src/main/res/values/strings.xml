@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseAuthenticationIslemleri2</string>
+    <string name="change_txt">Değiştir</string>
+    <string name="close_txt">Vazgeç</string>
+</resources>
